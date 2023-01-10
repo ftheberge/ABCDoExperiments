@@ -18,4 +18,5 @@ The notebook uses mainly common Python packages, with the addition of:
 Files with stored experiment results are supplied for a few (longer) tests, but those can also be re-created. The following tools then need to be installed to run those: 
 * The **node2vec** graph embedding code from: https://github.com/snap-stanford/snap/tree/master/examples/node2vec
 * The graph embedding divergence (**GED**) code from: https://github.com/ftheberge/Comparing_Graph_Embeddings
+
 and the full paths to the executables needs to be supplied, as explained in the notebook.
