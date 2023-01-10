@@ -1,4 +1,4 @@
-# ABCDo_Experiments
+# ABCDoExperiments
 Experiments to support paper "Artificial Benchmark for Community Detection with Outliers" in a Python Jupyter Notebook.
 
 ## Datasets
